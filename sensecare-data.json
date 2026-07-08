@@ -1,0 +1,83 @@
+{
+  "enfermeiros": [
+    {
+      "id": "1",
+      "nome": "Lucas",
+      "sobrenome": "Ferreira Mendes",
+      "cpfEmail": "lucas.mendes@sensecare.com",
+      "telefone": "(11) 99123-7788",
+      "passwordField": "$2y$10$T8R7eY1dQ8X0YhVqZIv1xe8FWyN3cvYF1eQ7o8mHpe6UjswW0ae9W",
+      "sexo": "masculino",
+      "dataContratacao": "2024-04-20",
+      "dataNascimento": "1992-10-05",
+      "diploma": "Enfermagem - USP",
+      "cargo": "Enfermeiro Chefe",
+      "complementos": "Responsável por triagem e supervisão."
+    },
+    {
+      "id": "2",
+      "nome": "diogo",
+      "sobrenome": "vieira da silva",
+      "cpfEmail": "05708376007",
+      "telefone": "5551989345298",
+      "passwordField": "d",
+      "sexo": "masculino",
+      "dataContratacao": "2026-03-20",
+      "dataNascimento": "2007-03-19",
+      "diploma": "dd",
+      "cargo": "dddd",
+      "complementos": "d"
+    },
+    {
+      "id": "d",
+      "nome": "diogo",
+      "sobrenome": "vieira da silva",
+      "cpfEmail": "05708376007",
+      "telefone": "5551989345555",
+      "passwordField": "dd",
+      "sexo": "masculino",
+      "dataContratacao": "2026-03-20",
+      "dataNascimento": "2007-03-19",
+      "diploma": "dd",
+      "cargo": "dddd",
+      "complementos": "d"
+    },
+    {
+      "id": "0",
+      "nome": "diogo",
+      "sobrenome": "vieira da silva",
+      "cpfEmail": "05708376007",
+      "telefone": "5551989345298",
+      "passwordField": "d",
+      "sexo": "masculino",
+      "dataContratacao": "2026-03-20",
+      "dataNascimento": "2007-03-19",
+      "diploma": "dd",
+      "cargo": "dddd",
+      "complementos": "d"
+    }
+  ],
+  "pacientes": [
+    {
+      "id": 6,
+      "nurse_id": "1",
+      "primeiro_nome": "Teste",
+      "sobrenome": "Duplicado",
+      "data_nascimento": "1990-01-01",
+      "cpf": "11122233344",
+      "endereco": "Rua Teste",
+      "telefone": "11999998888",
+      "nome_responsavel": "",
+      "telefone_responsavel": "",
+      "procedimento": "Consulta",
+      "historico_doencas": "",
+      "medicacoes": "",
+      "sexo": "masculino",
+      "prioridade": "alta",
+      "risco": "nada",
+      "alergias": "",
+      "especificacoes": ""
+    }
+  ],
+  "nextPacienteId": 11
+}
