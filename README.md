@@ -18,7 +18,7 @@ A web/desktop application for managing patients and nurses, featuring nurse and 
 - public/index.html: Login and nurse registration screen.
 - public/m.html: Main dashboard for patients, care tasks, and alerts.
 - public/script.js: Login logic and nurse form validation.
-- public/sensecare2.0.sql: Initial database with local data.
+- public/sensecare2.0.sql: Initial database with local data. #the sql is litelocal
 - m.js: Express server with routes for nurses, patients, and notifications.
 - electron-main.js: Electron initialization. ## Requirements
 
@@ -30,7 +30,7 @@ A web/desktop application for managing patients and nurses, featuring nurse and 
 Open the terminal in the project folder and run:
 
 ```bash
-cd C:\Users\DIOGOVIEIRADASILVA\Downloads\Integrador
+cd C:\Users\DIOGOVIEIRADASILVA\Downloads\Integrador #Or other name that you used on the folder
 npm install
 ```
 
@@ -139,7 +139,7 @@ Aplicação web/desktop para gerenciamento de pacientes e enfermeiros, com cadas
 - public/index.html: tela de login e cadastro de enfermeiro.
 - public/m.html: área principal de pacientes, cuidados e alertas.
 - public/script.js: lógica de login e validações do formulário de enfermeiro.
-- public/sensecare2.0.sql: base inicial com dados locais.
+- public/sensecare2.0.sql: base inicial com dados locais. #o sql é litelocal
 - m.js: servidor Express com rotas de enfermeiros, pacientes e notificações.
 - electron-main.js: inicialização do Electron.
  
@@ -153,7 +153,7 @@ Aplicação web/desktop para gerenciamento de pacientes e enfermeiros, com cadas
 Abra o terminal na pasta do projeto e execute:
 
 ```bash
-cd C:\Users\DIOGOVIEIRADASILVA\Downloads\Integrador
+cd C:\Users\DIOGOVIEIRADASILVA\Downloads\Integrador #ou outro nome que usou na pasta
 npm install
 ```
 
